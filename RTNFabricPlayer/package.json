@@ -1,0 +1,43 @@
+{
+  "name": "rtn-fabric-player",
+  "version": "0.0.1",
+  "description": "VLC Video Player",
+  "react-native": "src/index",
+  "source": "src/index",
+  "files": [
+    "src",
+    "android",
+    "ios",
+    "rtn-fabric-player.podspec",
+    "!android/build",
+    "!ios/build",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__"
+  ],
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "repository": "https://github.com/indiestream/rtn-player",
+  "author": "Peter Couture <your_email@your_provider.com> (https://github.com/indiestream)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indiestream/rtn-player/issues"
+  },
+  "homepage": "https://github.com/indiestream/rtn-player#readme",
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "codegenConfig": {
+    "name": "RTNFabricPlayerSpec",
+    "type": "components",
+    "jsSrcsDir": "src",
+    "android": {
+      "javaPackageName": "com.rtnfabricplayer"
+    }
+  }
+}
