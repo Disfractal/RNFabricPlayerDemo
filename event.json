@@ -1,0 +1,378 @@
+{
+    "_dispatchInstances": {
+        "_debugHookTypes": null,
+        "_debugNeedsRemount": false,
+        "_debugOwner": {
+            "_debugHookTypes": [Array
+            ],
+            "_debugNeedsRemount": false,
+            "_debugOwner": null,
+            "_debugSource": undefined,
+            "actualDuration": 37.802030980587006,
+            "actualStartTime": 69059297.084749,
+            "alternate": [FiberNode
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": [Function App
+            ],
+            "flags": 1,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": [Object
+            ],
+            "mode": 3,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 9.88255199790001,
+            "sibling": null,
+            "stateNode": null,
+            "subtreeFlags": 1048581,
+            "tag": 0,
+            "treeBaseDuration": 11.364635989069939,
+            "type": [Function App
+            ],
+            "updateQueue": null
+        },
+        "_debugSource": undefined,
+        "actualDuration": 14.391666993498802,
+        "actualStartTime": 69059314.912249,
+        "alternate": null,
+        "child": null,
+        "childLanes": 0,
+        "deletions": null,
+        "dependencies": null,
+        "elementType": "RTNFabricPlayer",
+        "flags": 1048576,
+        "index": 1,
+        "key": null,
+        "lanes": 0,
+        "memoizedProps": {
+            "onLog": [Function onLog
+            ],
+            "source": "blah"
+        },
+        "memoizedState": null,
+        "mode": 3,
+        "pendingProps": {
+            "onLog": [Function onLog
+            ],
+            "source": "blah"
+        },
+        "ref": null,
+        "return": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": undefined,
+            "actualDuration": 26.887030988931656,
+            "actualStartTime": 69059307.113447,
+            "alternate": null,
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RCTView",
+            "flags": 0,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 3,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.04067699611186981,
+            "sibling": null,
+            "stateNode": [Object
+            ],
+            "subtreeFlags": 1048581,
+            "tag": 5,
+            "treeBaseDuration": 1.346562996506691,
+            "type": "RCTView",
+            "updateQueue": null
+        },
+        "selfBaseDuration": 0.03536500036716461,
+        "sibling": null,
+        "stateNode": {
+            "canonical": [ReactFabricHostComponent
+            ],
+            "node": [Object
+            ]
+        },
+        "subtreeFlags": 0,
+        "tag": 5,
+        "treeBaseDuration": 0.03536500036716461,
+        "type": "RTNFabricPlayer",
+        "updateQueue": null
+    },
+    "_dispatchListeners": [Function onLog
+    ],
+    "_targetInst": {
+        "_debugHookTypes": null,
+        "_debugNeedsRemount": false,
+        "_debugOwner": {
+            "_debugHookTypes": [Array
+            ],
+            "_debugNeedsRemount": false,
+            "_debugOwner": null,
+            "_debugSource": undefined,
+            "actualDuration": 37.802030980587006,
+            "actualStartTime": 69059297.084749,
+            "alternate": [FiberNode
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": [Function App
+            ],
+            "flags": 1,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": [Object
+            ],
+            "mode": 3,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 9.88255199790001,
+            "sibling": null,
+            "stateNode": null,
+            "subtreeFlags": 1048581,
+            "tag": 0,
+            "treeBaseDuration": 11.364635989069939,
+            "type": [Function App
+            ],
+            "updateQueue": null
+        },
+        "_debugSource": undefined,
+        "actualDuration": 14.391666993498802,
+        "actualStartTime": 69059314.912249,
+        "alternate": null,
+        "child": null,
+        "childLanes": 0,
+        "deletions": null,
+        "dependencies": null,
+        "elementType": "RTNFabricPlayer",
+        "flags": 1048576,
+        "index": 1,
+        "key": null,
+        "lanes": 0,
+        "memoizedProps": {
+            "onLog": [Function onLog
+            ],
+            "source": "blah"
+        },
+        "memoizedState": null,
+        "mode": 3,
+        "pendingProps": {
+            "onLog": [Function onLog
+            ],
+            "source": "blah"
+        },
+        "ref": null,
+        "return": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": undefined,
+            "actualDuration": 26.887030988931656,
+            "actualStartTime": 69059307.113447,
+            "alternate": null,
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RCTView",
+            "flags": 0,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 3,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.04067699611186981,
+            "sibling": null,
+            "stateNode": [Object
+            ],
+            "subtreeFlags": 1048581,
+            "tag": 5,
+            "treeBaseDuration": 1.346562996506691,
+            "type": "RCTView",
+            "updateQueue": null
+        },
+        "selfBaseDuration": 0.03536500036716461,
+        "sibling": null,
+        "stateNode": {
+            "canonical": [ReactFabricHostComponent
+            ],
+            "node": [Object
+            ]
+        },
+        "subtreeFlags": 0,
+        "tag": 5,
+        "treeBaseDuration": 0.03536500036716461,
+        "type": "RTNFabricPlayer",
+        "updateQueue": null
+    },
+    "bubbles": undefined,
+    "cancelable": undefined,
+    "currentTarget": {
+        "_internalInstanceHandle": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": undefined,
+            "actualDuration": 14.391666993498802,
+            "actualStartTime": 69059314.912249,
+            "alternate": null,
+            "child": null,
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RTNFabricPlayer",
+            "flags": 1048576,
+            "index": 1,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 3,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.03536500036716461,
+            "sibling": null,
+            "stateNode": [Object
+            ],
+            "subtreeFlags": 0,
+            "tag": 5,
+            "treeBaseDuration": 0.03536500036716461,
+            "type": "RTNFabricPlayer",
+            "updateQueue": null
+        },
+        "_nativeTag": 2,
+        "currentProps": {
+            "onLog": [Function onLog
+            ],
+            "source": "blah"
+        },
+        "viewConfig": {
+            "NativeProps": [Object
+            ],
+            "bubblingEventTypes": [Object
+            ],
+            "directEventTypes": [Object
+            ],
+            "uiViewClassName": "RTNFabricPlayer",
+            "validAttributes": [Object
+            ]
+        }
+    },
+    "defaultPrevented": undefined,
+    "dispatchConfig": {
+        "registrationName": "onLog"
+    },
+    "eventPhase": undefined,
+    "isDefaultPrevented": [Function functionThatReturnsFalse
+    ],
+    "isPropagationStopped": [Function functionThatReturnsFalse
+    ],
+    "isTrusted": undefined,
+    "nativeEvent": {
+        "message": "setSource",
+        "target": 2
+    },
+    "target": {
+        "_internalInstanceHandle": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": undefined,
+            "actualDuration": 14.391666993498802,
+            "actualStartTime": 69059314.912249,
+            "alternate": null,
+            "child": null,
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RTNFabricPlayer",
+            "flags": 1048576,
+            "index": 1,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 3,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.03536500036716461,
+            "sibling": null,
+            "stateNode": [Object
+            ],
+            "subtreeFlags": 0,
+            "tag": 5,
+            "treeBaseDuration": 0.03536500036716461,
+            "type": "RTNFabricPlayer",
+            "updateQueue": null
+        },
+        "_nativeTag": 2,
+        "currentProps": {
+            "onLog": [Function onLog
+            ],
+            "source": "blah"
+        },
+        "viewConfig": {
+            "NativeProps": [Object
+            ],
+            "bubblingEventTypes": [Object
+            ],
+            "directEventTypes": [Object
+            ],
+            "uiViewClassName": "RTNFabricPlayer",
+            "validAttributes": [Object
+            ]
+        }
+    },
+    "timeStamp": 1684936572160,
+    "type": undefined
+}
